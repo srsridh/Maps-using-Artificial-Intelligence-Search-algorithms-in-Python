@@ -4,7 +4,9 @@
 
 • Built maps using GPS co-ordinates and length of roadway between cities in USA by using A*,Uniform, BFS, DFS
 and IDS search algorithms with distance, time and segment as cost functions
+
 • Discovered the total distance , time taken and the paths between two cities
+
 • Uniform search algorithm returned the most optimal path for any two cities within 4 seconds
 
 
